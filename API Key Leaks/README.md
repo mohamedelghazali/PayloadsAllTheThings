@@ -16,7 +16,7 @@
     - [Twitter API Secret](#twitter-api-secret)
     - [Twitter Bearer Token](#twitter-bearer-token)
     - [Gitlab Personal Access Token](#gitlab-personal-access-token)
-    - [Auth Bypass using pre-published Machine Key](#auth-bypass-using-pre-published-machine-key)
+    - [Auth Bypass using pre-published Machine Key](#auth-bypass-using-pre-published-machine-key) 
 
 
 ## Tools
